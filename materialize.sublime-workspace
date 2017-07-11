@@ -11,15 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 753,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -28,10 +19,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 81.0,
-		"last_filter": "project s",
+		"height": 104.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"project s",
 				"Project: Save As"
@@ -73,10 +68,6 @@
 				"Snippet: #!/usr/bin/env"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"snipp",
 				"Snippet: html"
 			],
@@ -105,7 +96,7 @@
 				"Set Syntax: HTML"
 			]
 		],
-		"width": 400.0
+		"width": 432.0
 	},
 	"console":
 	{
@@ -127,10 +118,15 @@
 	"expanded_folders":
 	[
 		"/E/xampp/htdocs/materialize",
-		"/E/xampp/htdocs/materialize/assets"
+		"/E/xampp/htdocs/materialize/app"
 	],
 	"file_history":
 	[
+		"/E/xampp/htdocs/materialize/app/pseudo-massonry.html",
+		"/E/xampp/htdocs/materialize/app/assets/styles/css/pseudo-massonry.css",
+		"/E/xampp/htdocs/materialize/package.json",
+		"/E/xampp/htdocs/materialize/gulpfile.js",
+		"/E/xampp/htdocs/materialize/index.html",
 		"/C/Users/kevin.bates/Documents/DAILY/contacts.html",
 		"/H/BAK/landanor/logs/landanorthwest.com",
 		"/P/z_IN THE EVENT THAT KEVIN BATES IS HIT BY A BUS/LIT RACKS/chrono-order/index.html",
@@ -205,42 +201,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 753,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								753,
-								753
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
