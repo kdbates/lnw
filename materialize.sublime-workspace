@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_blank"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 753,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "project s",
+		"selected_items":
+		[
+			[
+				"project s",
+				"Project: Save As"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set syntax htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/xampp/htdocs/materialize",
+		"/E/xampp/htdocs/materialize/assets"
+	],
+	"file_history":
+	[
+		"/C/Users/kevin.bates/Documents/DAILY/contacts.html",
+		"/H/BAK/landanor/logs/landanorthwest.com",
+		"/P/z_IN THE EVENT THAT KEVIN BATES IS HIT BY A BUS/LIT RACKS/chrono-order/index.html",
+		"/C/users/kevin~1.bat/appdata/local/temp/sublime-sftp-browse-1499285107/notebook/home/notebook/public_html/403/docs/programming/python/index.html",
+		"/C/users/kevin~1.bat/appdata/local/temp/sublime-sftp-browse-1499297069/notebook/home/notebook/public_html/403/docs/programming/python/pdf-output.txt",
+		"/C/users/kevin~1.bat/appdata/local/temp/sublime-sftp-browse-1499282160/notebook/home/notebook/public_html/403/docs/index.html",
+		"/C/users/kevin~1.bat/appdata/local/temp/sublime-sftp-browse-1499269844/notebook/home/notebook/public_html/403/docs/programming/python/index.html",
+		"/E/xampp/htdocs/sandbox/json-ajax-utube/json-ajax-utube.html",
+		"/C/Users/kevin.bates/Documents/DAILY/old-atom-snippets.html",
+		"/c/users/kevin~1.bat/appdata/local/temp/wo-li.html",
+		"/E/Cygwin64/home/kevin.bates/.bash_profile",
+		"/C/Users/kevin.bates/todo/todo.cfg",
+		"/C/Users/kevin.bates/todo/todo.sh",
+		"/E/Cygwin64/home/kevin.bates/todo/todo.cfg",
+		"/E/Cygwin64/home/kevin.bates/.bashrc",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Installed Packages/HTML Snippets.sublime-package",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Packages/User/web-orders.sublime-snippet",
+		"/P/z_IN THE EVENT THAT KEVIN BATES IS HIT BY A BUS/GEN. DOCUMENTATION/email-accounts.html",
+		"/C/Users/kevin.bates/Documents/DAILY/projects/landanorthwest-site/content-log.html",
+		"/C/Users/kevin.bates/Documents/DAILY/projects/catalog-updating/catalog-updating-2017.html",
+		"/C/Users/kevin.bates/Documents/DAILY/projects/micro-sites/powerchord.html",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/H/WEBSITE/page errors/hds-upright-class.txt",
+		"/H/WEBSITE/page errors/hd-electric.txt",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/kevin.bates/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cell numbers",
+			"110001709",
+			">",
+			"<",
+			"UUUU",
+			"06",
+			">",
+			"<"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&gt;",
+			"&lt;",
+			"07",
+			"&gt;",
+			"&lt;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								753
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "materialize.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conta",
+				"DAILY\\contacts.html"
+			],
+			[
+				"prices",
+				"DAILY\\catalog\\prices-catalogs.html"
+			],
+			[
+				"content-log",
+				"DAILY\\projects\\landanorthwest-site\\content-log.html"
+			],
+			[
+				"catalog",
+				"DAILY\\projects\\catalog-updating\\catalog-updating-2017.html"
+			],
+			[
+				"power",
+				"DAILY\\projects\\micro-sites\\powerchord.html"
+			],
+			[
+				"web",
+				"DAILY\\web-orders.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
